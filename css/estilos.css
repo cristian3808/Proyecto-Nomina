@@ -1,0 +1,77 @@
+/* Estilo general del cuerpo de la página */
+body {
+    font-family: Arial, sans-serif;
+    background-image: url('imgs/fondo.jpg'); /* Reemplaza 'fondo.jpg' con la URL de tu imagen de fondo */
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    margin: 0;
+    padding: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+
+/* Estilo para el formulario de inicio de sesión */
+.center {
+    text-align: center;
+}
+
+.login-container {
+    background-color: rgba(255, 255, 255, 0.8);
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.3);
+    max-width: 400px;
+}
+
+h1 {
+    color: #333;
+}
+
+h2 {
+    margin-top: 20px;
+    color: #333;
+}
+
+/* Estilo para los enlaces */
+a {
+    text-decoration: none;
+    color: #007bff;
+}
+
+a:hover {
+    text-decoration: underline;
+}
+/* Estilos para el enlace */
+a {
+    text-decoration: none; /* Elimina el subrayado predeterminado */
+    color: #020202; /* Cambia el color del enlace */
+    font-weight: bold; /* Hace que el enlace sea más audaz */
+}
+
+/* Estilos para el enlace al pasar el mouse por encima */
+a:hover {
+    color: #000000; /* Cambia el color al pasar el mouse por encima */
+}
+  /* Estilos para la tabla */
+  .menu {
+    width: 100%; /* Ancho del 100% del contenedor padre */
+    border-collapse: collapse; /* Colapsar los bordes de las celdas */
+    margin-bottom: 20px; /* Espacio inferior entre la tabla y el contenido siguiente */
+}
+
+/* Estilos para las celdas */
+.menu td {
+    padding: 10px; /* Espaciado interno en las celdas */
+    text-align: center; /* Alinear texto al centro */
+    border: 5px solid #0056b3; /* Borde de 1 píxel con color gris claro */
+}
+
+/* Estilos para los enlaces */
+.menu a {
+    text-decoration: none; /* Eliminar subrayado de los enlaces */
+    color: 10153B; /* Color del texto */
+    font-weight: bold; /* Texto en negrita */
+}

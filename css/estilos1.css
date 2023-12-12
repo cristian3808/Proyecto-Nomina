@@ -1,0 +1,106 @@
+table {
+    
+    border-collapse: collapse;
+    margin-bottom: 20px;
+}
+
+table, th, td {
+    border: 1px solid #ccc;
+}
+
+th, td {
+    padding: 8px;
+    text-align: left;
+}
+
+th {
+    background-color: #f2f2f2;
+}
+
+/* Estilo para los encabezados de las secciones */
+h3 {
+    background-color:  #1877F2;
+    color: #fff;
+    padding: 10px;
+    width: 1290px;
+}
+/* Estilos para el encabezado h1 */
+h1 {
+    text-align: center;
+    font-size: 36px;
+    color: #ffffff;
+    margin-bottom: 20px;
+}
+/* Estilos para la barra de navegación */
+nav {
+    text-align: center;
+    margin-top: 20px;
+}
+body {
+    background-color: #86b5f1; /* Cambia el color de fondo según tus preferencias */
+    text-align: center;
+    font-family: Arial, sans-serif;
+    width: center;
+}
+/* Estilos para el enlace */
+a {
+    text-decoration: none; /* Elimina el subrayado predeterminado */
+    color: #020202; /* Cambia el color del enlace */
+    font-weight: bold; /* Hace que el enlace sea más audaz */
+}
+
+/* Estilos para el enlace al pasar el mouse por encima */
+a:hover {
+    color: #000000; /* Cambia el color al pasar el mouse por encima */
+}
+  /* Estilos para la tabla */
+  .menu {
+    width: 100%; /* Ancho del 100% del contenedor padre */
+    border-collapse: collapse; /* Colapsar los bordes de las celdas */
+    margin-bottom: 20px; /* Espacio inferior entre la tabla y el contenido siguiente */
+}
+
+/* Estilos para las celdas */
+.menu td {
+    padding: 10px; /* Espaciado interno en las celdas */
+    text-align: center; /* Alinear texto al centro */
+    border: 5px solid #0056b3; /* Borde de 1 píxel con color gris claro */
+}
+
+/* Estilos para los enlaces */
+.menu a {
+    text-decoration: none; /* Eliminar subrayado de los enlaces */
+    color: 10153B; /* Color del texto */
+    font-weight: bold; /* Texto en negrita */
+}
+/* Estilos para el enlace */
+a {
+    text-decoration: none; /* Elimina el subrayado predeterminado */
+    color: #020202; /* Cambia el color del enlace */
+    font-weight: bold; /* Hace que el enlace sea más audaz */
+}
+
+/* Estilos para el enlace al pasar el mouse por encima */
+a:hover {
+    color: #000000; /* Cambia el color al pasar el mouse por encima */
+}
+  /* Estilos para la tabla */
+  .menu {
+    width: 100%; /* Ancho del 100% del contenedor padre */
+    border-collapse: collapse; /* Colapsar los bordes de las celdas */
+    margin-bottom: 20px; /* Espacio inferior entre la tabla y el contenido siguiente */
+}
+
+/* Estilos para las celdas */
+.menu td {
+    padding: 10px; /* Espaciado interno en las celdas */
+    text-align: center; /* Alinear texto al centro */
+    border: 5px solid #0056b3; /* Borde de 1 píxel con color gris claro */
+}
+
+/* Estilos para los enlaces */
+.menu a {
+    text-decoration: none; /* Eliminar subrayado de los enlaces */
+    color: 10153B; /* Color del texto */
+    font-weight: bold; /* Texto en negrita */
+}

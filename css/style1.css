@@ -1,0 +1,51 @@
+body {
+    background-image: url('https://png.pngtree.com/thumb_back/fw800/back_our/20190620/ourmid/pngtree-event-sign-in-the-exhibition-board-background-material-image_161842.jpg'); /* Cambia 'ruta_de_tu_imagen.jpg' por la URL o ruta de tu imagen de fondo */
+    background-size: cover; /* Ajusta la imagen para cubrir todo el fondo */
+    background-repeat: no-repeat; /* Evita la repetición de la imagen de fondo */
+    background-attachment: fixed; /* Fija la imagen de fondo para que no se desplace con el contenido */
+    text-align: center; /* Centra el contenido en la página */
+    padding-top: 50px; /* Espacio superior para separar el contenido del borde superior */
+}
+
+
+
+
+center {
+    margin-top: 50px;
+}
+
+h1 {
+    color: #ff0000;
+}
+
+form {
+    background-color: #fff;
+    padding: 20px;
+    border-radius: 5px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    width: 300px;
+    margin: auto;
+}
+
+label {
+    display: block;
+    margin: 10px 0;
+    color: #555;
+}
+
+input {
+    width: 100%;
+    padding: 8px;
+    margin: 5px 0;
+    box-sizing: border-box;
+}
+
+input[type="submit"] {
+    background-color: #4caf50;
+    color: #fff;
+    cursor: pointer;
+}
+
+input[type="submit"]:hover {
+    background-color: #45a049;
+}
